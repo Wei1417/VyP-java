@@ -10,7 +10,7 @@ public class Exercise_21 {
         float weight = scanner.nextFloat();
         System.out.println("Please input your height");
         float height = scanner.nextFloat();
-        float BMI = (float) weight/(height*2);
+        float BMI = weight/(height*2);
         if (BMI < 18.5) {
             System.out.println("Underweight");
         }

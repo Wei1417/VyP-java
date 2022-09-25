@@ -2,7 +2,7 @@ package lab_03;
 
 import java.util.Scanner;
 
-public class Excersise_32 {
+public class Exercise_32 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         System.out.println("Nhap so luong phan tu");
